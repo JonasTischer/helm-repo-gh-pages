@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  example:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-23T15:36:43.394054954Z"
+    description: A Helm chart for Kubernetes
+    digest: bcd8961e714bad638a3b41ad0bcf9050f222eab92981ea67e4a18476b614330e
+    name: example
+    type: application
+    urls:
+    - https://github.com/JonasTischer/helm-repo-gh-pages/releases/download/example-0.1.1/example-0.1.1.tgz
+    version: 0.1.1
+generated: "2022-02-23T15:36:43.285070787Z"
