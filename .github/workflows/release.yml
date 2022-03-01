@@ -25,7 +25,8 @@ name: release
 
 on:
   push:
-    tags: '*'
+    branches:
+      - main
 
 jobs:
   release:
